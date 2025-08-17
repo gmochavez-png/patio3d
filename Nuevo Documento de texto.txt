@@ -1,0 +1,10 @@
+Patio3D/
+│
+├── index.html        ← Página principal (código 3D con Three.js)
+├── patio.glb         ← Modelo 3D (tu patio)
+├── textures/         ← Texturas (césped, concreto, madera, etc.)
+│     ├── grass.jpg
+│     ├── concrete.jpg
+│     └── wood.jpg
+├── music/
+│     └── chillout.mp3
