@@ -1,0 +1,9 @@
+Patio3D/
+│
+├── index.html          ← Archivo principal con el código del patio (Three.js)
+├── music/
+│    └── chillout.mp3   ← Música de fondo (modo noche)
+├── textures/           ← (Opcional) Aquí puedes poner imágenes si quieres texturas más realistas
+│    ├── grass.jpg
+│    ├── concrete.jpg
+│    └── wood.jpg
